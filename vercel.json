@@ -1,5 +1,6 @@
 {
     "framework": null,
+    "outputDirectory": "public",
     "github": { "silent": true },
     "routes": [{ "src": "/.*", "dest": "/api/vercel.ts" }]
 }
